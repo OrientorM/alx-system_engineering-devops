@@ -1,1 +1,1 @@
-look n to the mirror
+directory adds exec

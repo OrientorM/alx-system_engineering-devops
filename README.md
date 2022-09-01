@@ -1,1 +1,1 @@
-current working directory
+the current user

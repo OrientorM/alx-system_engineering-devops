@@ -1,1 +1,1 @@
-the current user
+effective username

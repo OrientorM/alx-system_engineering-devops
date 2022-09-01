@@ -1,1 +1,1 @@
-multipl execut
+mode of file

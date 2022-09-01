@@ -1,1 +1,1 @@
-hello in working directory
+owner and group

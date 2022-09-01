@@ -1,1 +1,1 @@
-mode of file
+look n to the mirror

@@ -1,1 +1,1 @@
-current working dir in long format
+list all contents in directory

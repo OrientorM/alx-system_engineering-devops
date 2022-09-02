@@ -1,1 +1,1 @@
-symobolic link
+hello to bettty

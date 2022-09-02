@@ -1,1 +1,1 @@
-list all contents in directory
+list files with digits

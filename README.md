@@ -1,1 +1,1 @@
-change dir to home
+list files

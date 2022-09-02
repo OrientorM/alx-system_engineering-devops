@@ -1,1 +1,1 @@
-a script that changes a working dir into home
+current working dir in long format

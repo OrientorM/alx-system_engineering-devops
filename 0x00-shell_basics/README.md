@@ -1,1 +1,1 @@
-list all hidden files
+display current dir

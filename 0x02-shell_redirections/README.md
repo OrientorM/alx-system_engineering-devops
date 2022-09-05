@@ -1,1 +1,1 @@
-a script that changes to hello world
+a script that changes

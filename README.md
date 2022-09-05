@@ -1,1 +1,1 @@
-a script
+a scriptt
